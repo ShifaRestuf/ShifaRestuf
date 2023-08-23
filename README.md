@@ -1,16 +1,23 @@
-### Hi there 👋
+<body>
+<h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
 
-<!--
-**ShifaRestuf/ShifaRestuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+<img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif">
+</div>
+<br>
+<div>
+<h2 align="center">About me (~˘▾˘)~</h2>
+<li>
+<b>Name:</b> Giokabaneri</li>
+<li>
+<b>Hobbies:</b> Gaming, Coding, anime
+</li>
+<li>
+<b>Sex:</b> ......................... 
+</li>
+<li>
+<b>Loves:</b> Gaming
+  <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
+</li>
+<br>
