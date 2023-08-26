@@ -14,7 +14,7 @@
 <b>Hobbies:</b> Gaming, Coding, anime
 </li>
 <li>
-<b>Sex:</b> ......................... 
+<b>Sex:</b>
 </li>
 <li>
 <b>Loves:</b> Gaming
