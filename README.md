@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
 
 > **Hi there 👋**
-I am ShifaRestuf, an Indonesia otaku that codes in his free time! I speak English and Sunda :)
+I am **ShifaRestuf**, an Indonesia otaku that codes in his free time! I speak English and Sunda :)
 
 
 <br>
