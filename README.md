@@ -1,5 +1,5 @@
 <<img width="100%" src="Welcome.svg" />
-<img align="left" width="20%" alt="ShifaRestuf" src="Shifa.jpg" />
+<img align="left" width="20%" alt="ShifaRestuf" src="1695918026240.jpg" />
 
 <img width="70%" src="animatedText.svg" alt="Typing SVG" />
 
