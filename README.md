@@ -1,23 +1,17 @@
-<body>
-<h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
+<<img width="100%" src="Welcome.svg" />
+<img align="left" width="20%" alt="dhhruv" src="introd.jpg" />
 
-<br>
-<div align="center">
-<img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif">
-</div>
-<br>
-<div>
-<h2 align="center">About me (~˘▾˘)~</h2>
-<li>
-<b>Name:</b> Giokabaneri</li>
-<li>
-<b>Hobbies:</b> Gaming, Coding, anime
-</li>
-<li>
-<b>Sex:</b>
-</li>
-<li>
-<b>Loves:</b> Gaming
-  <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
-</li>
+<img width="70%" src="animatedText.svg" alt="Typing SVG" />
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
+
+> - 🔭 I’m currently working on **Godot** because Unity is too heavy for my Mac...
+>
+> - 🌱 I’m currently learning **3D Development in Godot**
+>
+> - 💬 Ask me about **anything**
+>
+> - ⚡ Fun fact **My profile picture was generated with Stable Diffusion trained with my Photos!**
+
+
 <br>
