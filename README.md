@@ -1,4 +1,4 @@
-<img width="100%" src="Welcome.svg" />
+<img width="100%" src="src/app/svg/Welcome.svg" />
 <img align="left" width="20%" alt="ShifaRestuf" src="src/app/img/profile.jpg" />
 
 <img width="70%" src="src/app/svg/animatedText.svg" alt="Typing SVG" />
