@@ -6,10 +6,11 @@
 
 <h2 id="ShifaRestuf">BANDUNG CITY OF GOD</h2>
 
-<pre><code>F*ck Society 
+<pre><code>𝐅*𝐜𝐤 𝐒𝐨𝐜𝐢𝐞𝐭𝐲 
 
-Hi there 👋
-I am ShifaRestuf, an Indonesia otaku that codes in his free time! I speak English and Sunda :).</code></pre>
+𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
+𝐈 𝐚𝐦 𝐒𝐡𝐢𝐟𝐚𝐑𝐞𝐬𝐭𝐮𝐟, 
+𝐚𝐧 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 𝐨𝐭𝐚𝐤𝐮 𝐭𝐡𝐚𝐭 𝐜𝐨𝐝𝐞𝐬 𝐢𝐧 𝐡𝐢𝐬 𝐟𝐫𝐞𝐞 𝐭𝐢𝐦𝐞! 𝐈 𝐬𝐩𝐞𝐚𝐤 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐚𝐧𝐝 𝐒𝐮𝐧𝐝𝐚 :).</code></pre>
 <h3 align="center">
 
  
