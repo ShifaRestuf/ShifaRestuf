@@ -4,7 +4,7 @@
 <img width="70%" src="src/app/svg/animatedText.svg" alt="Typing SVG" />
 
 
-<h2 id="ShifaRestuf">BANDUNG CITY OF GOD</h2>
+<h2 id="ShifaRestuf">𝐁𝐀𝐍𝐃𝐔𝐍𝐆 𝐂𝐈𝐓𝐘 𝐎𝐅 𝐆𝐎𝐃</h2>
 
 <pre><code>𝐅*𝐜𝐤 𝐒𝐨𝐜𝐢𝐞𝐭𝐲 
 
